@@ -1,7 +1,11 @@
-## Hi there 👋
+👋 Hi, I'm Saanvi S. Nyamagoud
 
-<!--
-**Saanvi-nyam/saanvi-nyam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently exploring the world of Artificial Intelligence and Machine Learning, with a strong focus on building projects in Python. I also enjoy working with hardware, experimenting with electronics, sensors, and embedded systems.
+
+If you'd like to reach out or collaborate, feel free to contact me at:
+
+📧 Mailsaanvi.sn@gmail.com
+<!--**Saanvi-nyam/saanvi-nyam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
