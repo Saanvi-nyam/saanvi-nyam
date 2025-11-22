@@ -1,3 +1,4 @@
+![My Image](github-header-banner.png)
 👋 Hi, I'm Saanvi S. Nyamagoud
 
 I'm currently exploring the world of Artificial Intelligence and Machine Learning, with a strong focus on building projects in Python. I also enjoy working with hardware, experimenting with electronics, sensors, and embedded systems.
